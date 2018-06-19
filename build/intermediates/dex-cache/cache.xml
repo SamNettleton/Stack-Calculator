@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sam\.android\build-cache\69dd403187e5bf8139a4f3aaf273d01fedbdca3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1f95b0d76b8941577ad0ce807bd9e12fd39bfd9">
+        <dex dex="C:\Users\Sam\Documents\GitHub\StackCalculator\app\build\intermediates\pre-dexed\release\classes_240abdf916a9f862cb95bd0486aed571d002739c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sam\Documents\GitHub\StackCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Sam\Documents\GitHub\StackCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_74f77165914388a298243cc3f25a183acc9282d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sam\.android\build-cache\69dd403187e5bf8139a4f3aaf273d01fedbdca3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1f95b0d76b8941577ad0ce807bd9e12fd39bfd9">
+        <dex dex="C:\Users\Sam\Documents\GitHub\StackCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_240abdf916a9f862cb95bd0486aed571d002739c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sam\Documents\GitHub\StackCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="064e97a0b19bd33bf56f306ad970fe30f6c11272">
+        <dex dex="C:\Users\Sam\Documents\GitHub\StackCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_64a09d6e7f4afbb45231feb115ff1d884e0b6c01\classes.dex" />
+    </item>
+
+</items>
